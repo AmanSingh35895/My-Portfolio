@@ -184,7 +184,7 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: saas,
+        iconUrl: nextjs,
         theme: 'btn-back-black',
         name: 'Hilink',
         description: 'Website for a travel agency',
