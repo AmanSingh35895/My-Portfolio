@@ -184,11 +184,32 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: react,
+        iconUrl: saas,
+        theme: 'btn-back-black',
+        name: 'Hilink',
+        description: 'Website for a travel agency',
+        link: 'https://travel-and-tour-indol.vercel.app/',
+    },
+    {
+        iconUrl: git,
         theme: 'btn-back-red',
-        name: 'VS-Code Landing Page',
-        description: 'Cloned the VS-Code Landing Page',
-        link: 'https://github.com/AmanSingh35895/VS-Code-LP',
+        name: 'Jadoo',
+        description: 'Website for a travel agency',
+        link: 'https://travel-two-virid.vercel.app/',
+    },
+    {
+        iconUrl: redux,
+        theme: 'btn-back-black',
+        name: 'Sunny Fitness',
+        description: 'Website for a gym business',
+        link: 'https://sunnyfitness.vercel.app/',
+    },
+    {
+        iconUrl: typescript,
+        theme: 'btn-back-red',
+        name: 'Evogym',
+        description: 'Website for a gym business',
+        link: 'https://gym-digital-dwaar.vercel.app/',
     },
     {
         iconUrl: javascript,
