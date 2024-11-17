@@ -62,21 +62,21 @@ export const skills = [
         name: "MongoDB",
         type: "Database",
     },
-    // {
-    //     imageUrl: motion,
-    //     name: "Motion",
-    //     type: "Animation",
-    // },
-    // {
-    //     imageUrl: mui,
-    //     name: "Material-UI",
-    //     type: "Frontend",
-    // },
-    // {
-    //     imageUrl: nextjs,
-    //     name: "Next.js",
-    //     type: "Frontend",
-    // },
+    {
+        imageUrl: motion,
+        name: "Motion",
+        type: "Animation",
+    },
+    {
+        imageUrl: mui,
+        name: "Material-UI",
+        type: "Frontend",
+    },
+    {
+        imageUrl: nextjs,
+        name: "Next.js",
+        type: "Frontend",
+    },
     {
         imageUrl: nodejs,
         name: "Node.js",
@@ -87,26 +87,26 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-    // {
-    //     imageUrl: redux,
-    //     name: "Redux",
-    //     type: "State Management",
-    // },
-    // {
-    //     imageUrl: sass,
-    //     name: "Sass",
-    //     type: "Frontend",
-    // },
+    {
+        imageUrl: redux,
+        name: "Redux",
+        type: "State Management",
+    },
+    {
+        imageUrl: sass,
+        name: "Sass",
+        type: "Frontend",
+    },
     {
         imageUrl: tailwindcss,
         name: "Tailwind CSS",
         type: "Frontend",
     },
-    // {
-    //     imageUrl: typescript,
-    //     name: "TypeScript",
-    //     type: "Frontend",
-    // }
+    {
+        imageUrl: typescript,
+        name: "TypeScript",
+        type: "Frontend",
+    }
 ];
 
 export const experiences = [
@@ -136,19 +136,19 @@ export const experiences = [
     //         "Participating in code reviews and providing constructive feedback to other developers.",
     //     ],
     // },
-    // {
-    //     title: "Web Developer",
-    //     company_name: "Shopify",
-    //     icon: shopify,
-    //     iconBg: "#b7e4c7",
-    //     date: "Jan 2022 - Jan 2023",
-    //     points: [
-    //         "Developing and maintaining web applications using React.js and other related technologies.",
-    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //         "Implementing responsive design and ensuring cross-browser compatibility.",
-    //         "Participating in code reviews and providing constructive feedback to other developers.",
-    //     ],
-    // },
+    {
+        title: "Web Developer",
+        company_name: "Shopify",
+        icon: shopify,
+        iconBg: "#b7e4c7",
+        date: "Jan 2022 - Jan 2023",
+        points: [
+            "Developing and maintaining web applications using React.js and other related technologies.",
+            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+            "Implementing responsive design and ensuring cross-browser compatibility.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
+        ],
+    },
     // {
     //     title: "Full stack Developer",
     //     company_name: "Meta",
@@ -173,7 +173,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/amansingh35895',
     },
     {
         name: 'LinkedIn',
